@@ -2,6 +2,11 @@ import mongoose from "mongoose";
 
 const goalSchema = new mongoose.Schema(
   {
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      required: true,
+      ref: 'user', // Corresponds to mongoose.model("user", ...) in User.js
+    },
     title: {
       type: String,
       required: true,
