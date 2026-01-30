@@ -38,7 +38,7 @@ A Progressive Web Application (PWA) built with the MERN stack (MongoDB, Express,
    
    Start the backend server:
    ```bash
-   npm run dev
+   node src/index.js
    ```
 
 3. **Frontend Setup**
