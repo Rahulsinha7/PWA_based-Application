@@ -1,6 +1,6 @@
-# My PWA App
+# My To Do  App
 
-A Progressive Web Application (PWA) built with the MERN stack (MongoDB, Express, React, Node.js).
+A full-stack Progressive Web Application (PWA) built using the MERN stack (MongoDB, Express.js, React, Node.js) that enables secure task management with authentication, real-time CRUD operations, and offline support for an enhanced user experience.
 
 ## Tech Stack
 
