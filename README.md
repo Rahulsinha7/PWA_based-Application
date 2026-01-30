@@ -50,6 +50,10 @@ A Progressive Web Application (PWA) built with the MERN stack (MongoDB, Express,
    ```bash
    npm run dev
    ```
+4. **env**
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+```
 
 ## Features
 - Full PWA support (Installable, Offline capabilities)
